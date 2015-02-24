@@ -1,0 +1,15 @@
+{
+  "name": "alttest",
+  "version": "0.0.1",
+  "description": "Testing the 'alt' flush module",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Mirko",
+  "license": "MIT",
+  "dependencies": {
+    "alt": "^0.13.7",
+    "babel": "^4.4.5"
+  }
+}
