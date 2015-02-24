@@ -4,12 +4,15 @@
   "description": "Testing the 'alt' flush module",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js"
+    "start": "babel-node index.js",
+    "bacon": "babel-node baconindex.js"
   },
   "author": "Mirko",
   "license": "MIT",
   "dependencies": {
     "alt": "^0.13.7",
-    "babel": "^4.4.5"
+    "babel": "^4.4.5",
+    "baconjs": "^0.7.50",
+    "immutable": "^3.6.2"
   }
 }
